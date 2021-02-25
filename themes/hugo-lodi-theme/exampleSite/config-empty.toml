@@ -55,7 +55,7 @@ theme = "hugo-lodi-theme"
 
     # Place this image in the static/img folder
     avatar = "avatar.jpg"
-    subtitle = "Hi! I'm Juan, a front-end developer from Manila."
+    subtitle = "Afonso Campos"
 
     # Each element in this array makes a new <p> tag
     # You can write this text in markdown

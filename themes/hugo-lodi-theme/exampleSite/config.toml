@@ -1,6 +1,6 @@
 baseURL = "https://afonsocampos.netlify.app/"
 languageCode = "en-us"
-title = "My Portfolio Website"
+title = "Site de Portifólio"
 theme = "hugo-lodi-theme"
 googleAnalytics = "UA-XXXXXXXX-Y"
 

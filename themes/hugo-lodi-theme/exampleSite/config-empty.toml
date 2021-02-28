@@ -1,4 +1,4 @@
-baseURL = "https://github.com/AfonsoCampos/bgafonso/"
+baseURL = "https://afonsocampos.netlify.app/"
 languageCode = "pt-BR"
 title = "My Portfolio Website"
 theme = "hugo-lodi-theme"

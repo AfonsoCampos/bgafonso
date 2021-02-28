@@ -1,5 +1,5 @@
-baseURL = "localhost:1313"
-languageCode = "en-us"
+baseURL = "https://github.com/AfonsoCampos/bgafonso/"
+languageCode = "pt-BR"
 title = "My Portfolio Website"
 theme = "hugo-lodi-theme"
 # googleAnalytics = "UA-XXXXXXXX-Y"

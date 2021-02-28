@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "https://github.com/AfonsoCampos/bgafonso/"
 languageCode = "en-us"
 title = "Meu Portifolio web"
 theme = "hugo-lodi-theme"

@@ -1,6 +1,6 @@
-baseURL: localhost:1313
-languageCode: en-us
-title: My Portfolio Website
+baseURL: https://github.com/AfonsoCampos/bgafonso/
+languageCode: pt-BR
+title: meu site de portfolio
 theme: hugo-lodi-theme
 googleAnalytics: UA-XXXXXXXX-Y
 params:
@@ -8,10 +8,10 @@ params:
     enable: yes
     subtitle: Selected Works
     title: Case Studies
-  description: Portfolio of Alexis Collado, UX Designer
+  description: Porifolio Afonso Campos
   description_photo: portfolio.jpg
   dribbble: alexiscollado
-  email: myemail@gmail.com
+  email: afonso@agronomol.eng.br
   facebook: lex.collado
   favicon: favicon.png
   footer:
@@ -38,7 +38,7 @@ params:
       - I'm finishing my Bachelor's degree in Management Information Systems at the
         Ateneo de Manila University, expecting to graduate in 2018.
     resume: ResumeCollado.pdf
-    subtitle: Hi! I'm Alexis, a UX Designer and Evangelist from Manila.
+    subtitle: Fica certo agora kCT!!
   linkedin: https://www.linkedin.com/in/alexander-hans-collado-jr-9444146a
   logo: logo.png
   medium: ahvccollado

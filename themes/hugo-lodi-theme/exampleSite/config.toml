@@ -1,4 +1,4 @@
-baseURL = "https://afonsocampos.netlify.app/"
+baseURL = "https://github.com/AfonsoCampos/bgafonso/"
 languageCode = "en-us"
 title = "Site de Portifólio"
 theme = "hugo-lodi-theme"
